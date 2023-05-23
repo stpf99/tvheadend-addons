@@ -9,3 +9,16 @@ PLAY BUTTON FIX [
 https://github.com/dave-p/TVHadmin-JS/compare/master...stpf99:TVHadmin-JS:play_fix
 
 <img width="964" alt="TVHADMIN-JS-theme" src="https://github.com/stpf99/tvheadend-addons/blob/e5667d4b5279ef9bed0dd9a5cbef6b63411d8a76/Screenshot%202023-05-19%2020.46.47.png">
+
+
+
+picons.zip
+
+contain picons for tvheadend channels from poland dvt2 + fta in any found fta on 13e 19,2e 28,2e (not complete)
+
+
+each one picon for coressponding channel in 4 version for better mapping
+tvp1
+tvp1hd
+tvp1hevc
+tvp1hdhevc
