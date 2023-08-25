@@ -14,7 +14,7 @@ https://github.com/dave-p/TVHadmin-JS/compare/master...stpf99:TVHadmin-JS:play_f
 
 picons.zip
 
-contain picons for tvheadend channels from Poland dvb-t2 + fta in any found fta on 13e 19,2e 28,2e (not complete)
+picons for Tvheadend channels from Poland DVB-T2 + FTA in any found FTA on 13e, 19,2e, 28,2e (not complete)
 
 <img width="964" alt="TVHADMIN-JS-theme" src="https://github.com/stpf99/tvheadend-addons/blob/bc84d9f8d6c996e462aee829908e6312b0fd73ce/picons.png">
 
